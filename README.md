@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-![Abdullah's github stats](https://github.com/iabdullahW?tab=repositories)
+![Abdullah's github stats](./images/real-stats.png)
 
 [website]: https://yash1200.github.io/#/
 [company]: https://github.com/iabdullahW
